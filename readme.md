@@ -4,6 +4,7 @@
 Tracery was developed by Kate Compton, beginning March 2013 as a class assignment.
 This is version 0.7
 (This is the first numbered version of Tracery, chosen arbitrarily. All basic syntax is stable, but some advanced features like nested rules, if-statements, and modifiers with parameters are still in flux)
+Yani init test git
 
 
 ## Basic usage
